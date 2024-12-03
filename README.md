@@ -14,3 +14,6 @@
 Код находится в файле app.py.
 На фото 1 приведен пример запроса через JSON-файл и полученный ответ.
 ![image](https://github.com/user-attachments/assets/f407effd-984d-4ba7-83d5-1fe3bb6c9146)
+
+На фото 2 показан пример запроса CSV-файла.
+![image](https://github.com/user-attachments/assets/738b0791-ba98-4ea9-b5e5-471eb31d8b34)
